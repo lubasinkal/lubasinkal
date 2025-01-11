@@ -18,7 +18,7 @@
      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lubasinkal&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>-->
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubasinkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubasinkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html" alt="Top Languages"/>
     </td>
   </tr>
 </table>
