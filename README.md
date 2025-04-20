@@ -56,18 +56,3 @@ Here are some insights into my activity on GitHub:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://www.cloudflare.com)
 [![Podman](https://img.shields.io/badge/podman-ffffff?style=for-the-badge&logo=podman&logoColor=a167f6)](https://podman.io)
-
----
-
-### 🤝 Let's Connect!
-
-Find me on:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lubasi_nkal)
-
-### 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=lubasinkal&icon=0&color=0)
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Happy coding! ✨
