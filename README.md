@@ -14,7 +14,7 @@ Here are some insights into my activity on GitHub:
 |--------------|---------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lubasinkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lubasinkal&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lubasinkal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html) |
 
----
+<!--
 
 ### 🛠️ Tech Stack
 
