@@ -1,4 +1,4 @@
-# Lubasi
+# Into the lubasiverse
 
 An **Actuarial Science student** who codes like an engineer and thinks he's a quant. I build software that connects math, finance, and logic—**clean, fast, and useful**.
 
@@ -8,8 +8,8 @@ An **Actuarial Science student** who codes like an engineer and thinks he's a qu
 
 ### 🚧 What I’m Working With
 
-* 🐍 **Python** – Quant research, automation, and data analysis
-* 🧩 **Golang** – Backend tools and performance-driven systems
+* 🐍 **Python** – Research, Automation, and Data analysis
+* 🧩 **Golang** – Backend tools and performance driven systems
 * ⚡ **Nuxt.js / JavaScript** – Fast and clean web interfaces
 
 ---
