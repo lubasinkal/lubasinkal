@@ -1,10 +1,8 @@
-LubasiNkal
+### LubasiNkal
 
 Hobbyist developer. Self-proclaimed quant. Go enjoyer. Neovim daily driver (I use vim btw).
 
 Building clean, fast software blending math, logic, finance, and chaos... basically just living life.
-
-https://lubasiverse.pages.dev
 
 What I'm usually messing with
 
@@ -14,29 +12,17 @@ What I'm usually messing with
 - Neovim — config fixes, plugins, daily driver (sometimes Zed)
 - Zig — testing the waters, low-level curiosity
 
-
 Stuff I've shipped (publicly at least)
 
-- dev-setup — my personal one-command Windows dev bootstrap (Scoop/Winget + WezTerm/Starship/Neovim configs)  
-  https://github.com/lubasinkal/dev-setup
-
-- nvim — my custom Neovim config (minimal and tweakable)  
-  https://github.com/lubasinkal/nvim
-
-- Actuworry — actuarial + finance utilities
-  https://github.com/lubasinkal/actuworry
-
-- weather — simple weather CLI in Go  
-  https://github.com/lubasinkal/weather
-
-- gniphyl — file organizing CLI tool (also in Go) 
-  https://github.com/lubasinkal/gniphyl
-
-Most ideas start in my head then some stay in private repos, others escape as public side projects when they feel ready.
+- [dev-setup](https://github.com/lubasinkal/dev-setup) — my personal one-command Windows dev setup
+- [Actuworry](https://github.com/lubasinkal/actuworry) — actuarial + finance utilities
+- [gniphyl](https://github.com/lubasinkal/gniphyl) — file organizing CLI tool
+  
+Most ideas start in my head then some stay in private repos then some escape as public side projects.
 
 Find me
 
-- https://lubasiverse.pages.dev
-- @lubasinkal on X
+- Website: [lubasiverse](https://lubasiverse.pages.dev)
+- X: [@lubasinkal](https://x.com/lubasinkal)
 
-Surviving is thriving.
+Surviving is thriving. Good luck. 🤝
