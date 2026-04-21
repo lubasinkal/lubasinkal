@@ -1,4 +1,4 @@
-### LubasiNkal
+### Lubasinkal
 
 Hobbyist developer. Self-proclaimed quant. Go enjoyer. Neovim daily driver (I use vim btw).
 
@@ -14,6 +14,7 @@ What I'm usually messing with
 
 Stuff I've shipped (publicly at least)
 
+- [v-star](https://github.com/lubasinkal/v-star) - An actuarial calculation engine written in Go.
 - [dev-setup](https://github.com/lubasinkal/dev-setup) — my personal one-command Windows dev setup
 - [Actuworry](https://github.com/lubasinkal/actuworry) — actuarial + finance utilities
 - [gniphyl](https://github.com/lubasinkal/gniphyl) — file organizing CLI tool
@@ -22,7 +23,7 @@ Most ideas start in my head then some stay in private repos then some escape as 
 
 Find me
 
-- Website: [lubasiverse](https://lubasiverse.pages.dev)
+- Website: [lubasiverse](https://lubasiverse.com)
 - X: [@lubasinkal](https://x.com/lubasinkal)
 
 Surviving is thriving. Good luck. 🤝
